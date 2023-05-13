@@ -1,1 +1,1 @@
-import Personal
+import Persnal
