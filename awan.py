@@ -1,1 +1,1 @@
-import Persnal
+import Persnol
